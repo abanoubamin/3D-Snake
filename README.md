@@ -38,4 +38,4 @@ A 3-D OpenGL game with texture mapping.
 ![capture1](https://user-images.githubusercontent.com/40027608/41207962-f62030bc-6d1d-11e8-943e-42218242bef7.PNG)
 ![capture2](https://user-images.githubusercontent.com/40027608/41207963-f64948b2-6d1d-11e8-8b03-033a09004ef2.PNG)
 ![capture3](https://user-images.githubusercontent.com/40027608/41207964-f66f2032-6d1d-11e8-8ccf-eb8705896813.PNG)
-![capture4](https://user-images.githubusercontent.com/40027608/41207965-f694e2a4-6d1d-11e8-9d83-da1087af3ec4.PNG)
+![untitled](https://user-images.githubusercontent.com/40027608/41208045-cc566b2e-6d1e-11e8-840a-be5c4b5f7af4.png)
