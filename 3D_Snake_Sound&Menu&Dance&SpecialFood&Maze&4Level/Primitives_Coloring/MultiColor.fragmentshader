@@ -1,0 +1,21 @@
+#version 330 core
+
+in vec3 fragmentColor;
+
+// Ouput data
+out vec3 color;
+
+//textures
+// Values that stay constant for the whole mesh.
+uniform sampler2D myTextureSampler;////////// 
+in vec2 TexCoord;/////////
+out vec4 outtex;
+
+void main()
+{
+
+	// we set the color of each fragment to red.
+	//color = fragmentColor;
+	outtex = texture( myTextureSampler, TexCoord );
+	//color = texture(myTextureSampler, TexCoord).rgb + fragmentColor;
+}

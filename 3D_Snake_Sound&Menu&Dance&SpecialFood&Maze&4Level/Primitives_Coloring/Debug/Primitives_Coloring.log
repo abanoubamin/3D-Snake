@@ -1,0 +1,41 @@
+﻿Build started 5/5/2018 2:00:06 PM.
+     1>Project "G:\enigma\3D_Snake_Sound&Menu&Dance&SpecialFood&Maze&4Level\Primitives_Coloring\Primitives_Coloring.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Renderer.cpp
+         Renderer.cpp
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(33): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(72): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(73): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(81): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(82): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(92): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(93): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(106): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(107): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(120): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(121): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(232): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(233): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(243): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(244): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(388): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(389): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(408): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(409): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(416): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\enigma\3d_snake_sound&menu&dance&specialfood&maze&4level\primitives_coloring\renderer.cpp(417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\enigma\3D_Snake_Sound&Menu&Dance&SpecialFood&Maze&4Level\Debug\Primitives_Coloring.exe" /INCREMENTAL /NOLOGO opengl32.lib glfw3.lib glew32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\enigma\3D_Snake_Sound&Menu&Dance&SpecialFood&Maze&4Level\Debug\Primitives_Coloring.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\enigma\3D_Snake_Sound&Menu&Dance&SpecialFood&Maze&4Level\Debug\Primitives_Coloring.lib" /MACHINE:X86 Debug\FPCamera.obj
+         Debug\main.obj
+         Debug\myCube.obj
+         Debug\Renderer.obj
+         Debug\shader.obj
+         Debug\square.obj
+         Debug\stb_image.obj
+         Debug\texture.obj
+         Primitives_Coloring.vcxproj -> G:\enigma\3D_Snake_Sound&Menu&Dance&SpecialFood&Maze&4Level\Debug\Primitives_Coloring.exe
+     1>Done Building Project "G:\enigma\3D_Snake_Sound&Menu&Dance&SpecialFood&Maze&4Level\Primitives_Coloring\Primitives_Coloring.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.97
